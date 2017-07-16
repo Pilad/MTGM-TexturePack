@@ -214,6 +214,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-Desktop.ini
-Thumbs.db
+
 Copy.bat
+*.zip
